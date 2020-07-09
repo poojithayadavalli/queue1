@@ -21,7 +21,7 @@ Output: 8
 Explanation: 
 
 A -> B -> idle -> A -> B -> idle -> A -> B
-There is at least 2 units of time between any two same tasks.
+There is at least 2 units of time between any two same tasks.Consider Task A it have atleast 2 units of cooldown period to repeat again.i.e,B and idle
 
 Example 2:
 
